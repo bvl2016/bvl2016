@@ -1,7 +1,12 @@
 ### Hi there 👋 
 
-I am Baovola from Madagascar! 👀 I’m interested in geospatial technologies! <br>
-I really enjoy learning principles and tools related to GIS.
+I am Baovola from Madagascar! 
+
+👀 I’m interested in geospatial technologies. <br>
+
+:computer: I really enjoy learning principles and tools related to GIS.  <br>
+
+:dancers: I’m looking to collaborate on open source.  <br>
 
 
 
